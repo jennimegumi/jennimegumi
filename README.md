@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **C#, ASP.NET, SQL,**
 
-- 💬 Ask me about **valorant**
+- 💬 Ask me about games like **Genshin Impact** and **Valorant**, not much of a programmer
 
-- 📫 How to reach me **jennygraceapo@gmail.com**
+- 📫 How to reach me: **jennygraceapo@gmail.com**
 
-- ⚡ Fun fact **I love games**
+- ⚡ Fun fact: **I love games and I am more artistic person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
