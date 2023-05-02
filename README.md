@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Election Web Application**
 
-- 🌱 I’m currently learning **C#, ASP.NET, SQL,**
+- 🌱 I’m currently learning **AngularJS**
 
-- 💬 Ask me about games like **Genshin Impact** and **Valorant**, not much of a programmer
+- 💬 Ask me about nothing, not much of a programmer
 
 - 📫 How to reach me: **jennygraceapo@gmail.com**
 
