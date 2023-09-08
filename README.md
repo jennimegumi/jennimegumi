@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Election Web Application**
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about nothing, not much of a programmer
 
