@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **gallery. sort of. Website**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJS Framework**
 
-- 💬 Ask me about nothing, not much of a programmer
+- 💬 Ask me nothing... not much of a programmer
 
 - 📫 How to reach me: **jennygraceapo@gmail.com**
 
