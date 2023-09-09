@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jennimegumi" target="blank"><img src="https://img.shields.io/twitter/follow/jennimegumi?logo=twitter&style=for-the-badge" alt="jennimegumi" /></a> </p>
 
-- 🔭 I’m currently working on **Election Web Application**
+- 🔭 I’m currently working on **gallery. sort of. Website**
 
 - 🌱 I’m currently learning **Angular**
 
